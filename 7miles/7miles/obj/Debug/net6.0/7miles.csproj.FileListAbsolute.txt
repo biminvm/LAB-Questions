@@ -1,0 +1,15 @@
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.csproj.AssemblyReference.cache
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.AssemblyInfoInputs.cache
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.AssemblyInfo.cs
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.csproj.CoreCompileInputs.cache
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\bin\Debug\net6.0\7miles.exe
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\bin\Debug\net6.0\7miles.deps.json
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\bin\Debug\net6.0\7miles.runtimeconfig.json
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\bin\Debug\net6.0\7miles.dll
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\bin\Debug\net6.0\7miles.pdb
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.dll
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\refint\7miles.dll
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.pdb
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\7miles.genruntimeconfig.cache
+C:\Users\bimin.vm\Desktop\c#\7miles\7miles\obj\Debug\net6.0\ref\7miles.dll

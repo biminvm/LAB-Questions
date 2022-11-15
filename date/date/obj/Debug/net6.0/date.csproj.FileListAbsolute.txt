@@ -1,0 +1,15 @@
+C:\Users\bimin.vm\Desktop\c#\date\date\bin\Debug\net6.0\date.exe
+C:\Users\bimin.vm\Desktop\c#\date\date\bin\Debug\net6.0\date.deps.json
+C:\Users\bimin.vm\Desktop\c#\date\date\bin\Debug\net6.0\date.runtimeconfig.json
+C:\Users\bimin.vm\Desktop\c#\date\date\bin\Debug\net6.0\date.dll
+C:\Users\bimin.vm\Desktop\c#\date\date\bin\Debug\net6.0\date.pdb
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.csproj.AssemblyReference.cache
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.AssemblyInfoInputs.cache
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.AssemblyInfo.cs
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.csproj.CoreCompileInputs.cache
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.dll
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\refint\date.dll
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.pdb
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\date.genruntimeconfig.cache
+C:\Users\bimin.vm\Desktop\c#\date\date\obj\Debug\net6.0\ref\date.dll

@@ -1,0 +1,15 @@
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\bin\Debug\net6.0\flightdeci.exe
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\bin\Debug\net6.0\flightdeci.deps.json
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\bin\Debug\net6.0\flightdeci.runtimeconfig.json
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\bin\Debug\net6.0\flightdeci.dll
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\bin\Debug\net6.0\flightdeci.pdb
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.csproj.AssemblyReference.cache
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.AssemblyInfoInputs.cache
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.AssemblyInfo.cs
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.csproj.CoreCompileInputs.cache
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.dll
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\refint\flightdeci.dll
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.pdb
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\flightdeci.genruntimeconfig.cache
+C:\Users\bimin.vm\Desktop\c#\flightdeci\flightdeci\obj\Debug\net6.0\ref\flightdeci.dll
